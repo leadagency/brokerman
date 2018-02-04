@@ -2918,20 +2918,20 @@
 			-ms-flex: 1;
 			flex: 1;
 			padding: 1.5em;
-			color: #ffffff;
+			color: #636363;
 			text-align: center;
 		}
 
 			.statistics li.style1 {
-				background-color: #efa8b0;
+				background-color: #ffe9ec;
 			}
 
 			.statistics li.style2 {
-				background-color: #c79cc8;
+				background-color: #f3d9e7;
 			}
 
 			.statistics li.style3 {
-				background-color: #a89cc8;
+				background-color: #e0e1ff;
 			}
 
 			.statistics li.style4 {
