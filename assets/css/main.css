@@ -1739,7 +1739,7 @@
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.4em;
 		padding-top: 1em;
 	}
 
@@ -2857,6 +2857,11 @@
 			margin-left: 2em;
 			margin-top: 3em;
 			padding: 0;
+			line-height: 1.3em;
+		}
+
+		.features br {
+			line-height: 180%;
 		}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
@@ -2920,7 +2925,12 @@
 			padding: 1.5em;
 			color: #636363;
 			text-align: center;
+			line-height: 1.3em;
 		}
+
+		.statistics br {
+        line-height: 180%;
+     }
 
 			.statistics li.style1 {
 				background-color: #ffe9ec;

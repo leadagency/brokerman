@@ -49,6 +49,7 @@
 		.statistics li {
 			float: left;
 			padding: 1.5em 2.5em;
+			line-height: 0.5em
 		}
 
 /* Footer */
